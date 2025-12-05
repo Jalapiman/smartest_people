@@ -19,6 +19,16 @@ background-color: antiquewhite;
  display: flex;
  justify-content:space-between;
 }
+
+.pages a p {
+  display: inline-block;
+  background: #333;
+  color: snow;
+  padding:10px 20px ;
+  border-radius: 6px;
+  text-decoration: none; 
+
+}
 a{
     font-weight: bold;
     text-decoration:none;
